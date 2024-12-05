@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.042a5eca.css",
+    "main.js": "/static/js/main.f86d275f.js",
+    "static/media/logo-turin.webp": "/static/media/logo-turin.71305b83fac220acdc0a.webp",
+    "index.html": "/index.html",
+    "main.042a5eca.css.map": "/static/css/main.042a5eca.css.map",
+    "main.f86d275f.js.map": "/static/js/main.f86d275f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.042a5eca.css",
+    "static/js/main.f86d275f.js"
+  ]
+}
